@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="attendance-web" />
+        <module name="attendance-company-server" />
+        <module name="attendance-common-util" />
+        <module name="attendance-api" />
+        <module name="attendance-timer" />
+        <module name="attendance-service-util" />
+        <module name="attendance-common-server" />
+        <module name="attendance-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="attendance-department-server" target="1.8" />
+      <module name="attendance-staff-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="attendance-api" options="-parameters" />
+      <module name="attendance-common-server" options="-parameters" />
+      <module name="attendance-common-util" options="-parameters" />
+      <module name="attendance-company-server" options="-parameters" />
+      <module name="attendance-department-server" options="-parameters" />
+      <module name="attendance-service-util" options="-parameters" />
+      <module name="attendance-staff-service" options="-parameters" />
+      <module name="attendance-timer" options="-parameters" />
+      <module name="attendance-web" options="-parameters" />
+      <module name="attendance-web-util" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+server:
+  port: 8088
+spring:
+  datasource:
+    password: root
+    username: root
+    url: jdbc:mysql://127.0.0.1:3306/attendance?serverTimezone=UTC&characterEncoding=UTF-8
+
+# mybatis配置，表与类自映射
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+#  mapper-locations: classpath:mapper/*Mapper.xml
+
+dubbo:
+  application:
+    name: attendance-timer
+  protocol:
+    name: dubbo
+    port: 9998
+  registry:
+    address: zookeeper://127.0.0.1:2181
+
+

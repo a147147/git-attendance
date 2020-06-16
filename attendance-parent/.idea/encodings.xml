@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/attendance-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attendance-common-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attendance-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attendance-company-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attendance-service-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attendance-timer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attendance-web-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attendance-web/src/main/java" charset="UTF-8" />
+  </component>
+</project>

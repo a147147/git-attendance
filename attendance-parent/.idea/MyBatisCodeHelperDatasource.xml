@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="addSerializeUid" value="true" />
+        <option name="javaMapperPackage" value="com.attendace.mapper" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/attendance-api/src/main/java" />
+        <option name="javaModelPackage" value="com.attendace.pojo" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/attendance-api/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="attendance-api" />
+        <option name="modelAddToString" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="attendance-api">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.attendace.mapper" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/attendance-api/src/main/java" />
+                  <option name="javaModelPacakge" value="com.attendace.pojo" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/attendance-api/src/main/java" />
+                  <option name="xmlPackage" value="mapperxml" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/attendance-api/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="attendance:cwa_company">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="c_id" />
+                  <option name="javaModelName" value="CwaCompany" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="attendance:cwa_department">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="d_id" />
+                  <option name="javaModelName" value="CwaDepartment" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="attendance:cwa_department_staff">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="ds_id" />
+                  <option name="javaModelName" value="CwaDepartmentStaff" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="attendance:cwa_record">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="rec_id" />
+                  <option name="javaModelName" value="CwaRecord" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="attendance:cwa_regulations">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="reg_id" />
+                  <option name="javaModelName" value="CwaRegulations" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="attendance:cwa_repair">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="rep_id" />
+                  <option name="javaModelName" value="CwaRepair" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="attendance:cwa_role">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="r_id" />
+                  <option name="javaModelName" value="CwaRole" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="attendance:cwa_staff">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="s_id" />
+                  <option name="javaModelName" value="CwaStaff" />
+                  <option name="moduleName" value="attendance-api" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="xmlMapperPackage" value="mapperxml" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/attendance-api/src/main/resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>

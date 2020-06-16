@@ -1,0 +1,14 @@
+server:
+  port: 8080
+dubbo:
+  application:
+    name: attendance-web
+  registry:
+    address: zookeeper://127.0.0.1:2181
+#    address: zookeeper://47.115.8.44:2181
+  consumer:
+    timeout: 4000999
+excel:
+  filepath: D:\\file\\
+
+

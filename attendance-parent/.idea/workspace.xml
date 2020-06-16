@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="712d9fd2-e49f-4eec-9362-7773bb2305fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="activitileavedb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="attendance: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZnMvHiRE35JKjf2QI7evy5AvtG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="JavaClassFindUsagesOptions.isSearchForTextOccurrences" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.attendance.dao" />
+      <recent name="com.attendance.timer" />
+      <recent name="com.attendance.pojo" />
+      <recent name="com.attendance.vo" />
+      <recent name="com.attendance.cons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abc\Desktop\attendance-parent\attendance-web\src\main\resources" />
+      <recent name="C:\Users\abc\Desktop\attendance-parent\attendance-web\src\main\java\com\attendance\util" />
+      <recent name="C:\Users\abc\Desktop\attendance-parent\attendance-timer\src\main\resources" />
+      <recent name="C:\Users\abc\Desktop\attendance-parent\attendance-timer\src\main\java\com\attendance\dao" />
+      <recent name="C:\Users\abc\Desktop\attendance-parent\attendance-common-server\src\main\java\com\attendance\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AttendanceWebMainApp">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attendance.timer.MainClass" />
+      <module name="attendance-common-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attendance.timer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddtendanceCommonServiceMainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="attendance-common-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attendance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.attendance.AddtendanceCommonServiceMainApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttendanceCompanyServiceMainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="attendance-company-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attendance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.attendance.AttendanceCompanyServiceMainApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttendanceTimerMainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="attendance-timer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attendance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.attendance.AttendanceTimerMainApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AttendanceWebMainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="attendance-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attendance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.attendance.AttendanceWebMainApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AttendanceWebMainApp" />
+        <item itemvalue="Spring Boot.AttendanceCompanyServiceMainApp" />
+        <item itemvalue="Spring Boot.AddtendanceCommonServiceMainApp" />
+        <item itemvalue="Spring Boot.AttendanceTimerMainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="712d9fd2-e49f-4eec-9362-7773bb2305fd" name="Default Changelist" comment="" />
+      <created>1585470633835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585470633835</updated>
+      <workItem from="1585470637675" duration="11613000" />
+      <workItem from="1585574635593" duration="349000" />
+      <workItem from="1585575016090" duration="5864000" />
+      <workItem from="1585662081397" duration="5759000" />
+      <workItem from="1585748033801" duration="4349000" />
+      <workItem from="1585834850303" duration="5165000" />
+      <workItem from="1585968201810" duration="11061000" />
+      <workItem from="1586058006355" duration="12028000" />
+      <workItem from="1586266537542" duration="2773000" />
+      <workItem from="1586352354589" duration="1908000" />
+      <workItem from="1586438892589" duration="1526000" />
+      <workItem from="1586525106533" duration="7187000" />
+      <workItem from="1586576777422" duration="9428000" />
+      <workItem from="1586662058195" duration="5884000" />
+      <workItem from="1586784530484" duration="3897000" />
+      <workItem from="1586870645638" duration="4560000" />
+      <workItem from="1586957091948" duration="4649000" />
+      <workItem from="1587044298830" duration="3961000" />
+      <workItem from="1587132532962" duration="3865000" />
+      <workItem from="1587177038426" duration="14335000" />
+      <workItem from="1587263386425" duration="16786000" />
+      <workItem from="1587389741987" duration="5525000" />
+      <workItem from="1587479561581" duration="1256000" />
+      <workItem from="1587562377972" duration="2213000" />
+      <workItem from="1587649083684" duration="3421000" />
+      <workItem from="1587734711298" duration="23775000" />
+      <workItem from="1587877671440" duration="5396000" />
+      <workItem from="1588167009030" duration="2241000" />
+      <workItem from="1588253715959" duration="1358000" />
+      <workItem from="1588312917527" duration="9635000" />
+      <workItem from="1588343546206" duration="1234000" />
+      <workItem from="1588413961526" duration="11937000" />
+      <workItem from="1588488517105" duration="13869000" />
+      <workItem from="1588599335563" duration="3282000" />
+      <workItem from="1588606355776" duration="3643000" />
+      <workItem from="1588689051689" duration="3962000" />
+      <workItem from="1588774955780" duration="1306000" />
+      <workItem from="1588866603838" duration="87000" />
+      <workItem from="1589119345382" duration="3870000" />
+      <workItem from="1589300434103" duration="89000" />
+      <workItem from="1589606301158" duration="643000" />
+      <workItem from="1589697840904" duration="598000" />
+      <workItem from="1589808524225" duration="3088000" />
+      <workItem from="1590304048748" duration="3742000" />
+      <workItem from="1590490253225" duration="1221000" />
+      <workItem from="1590585831163" duration="2348000" />
+      <workItem from="1590672366683" duration="1520000" />
+      <workItem from="1590754943745" duration="3523000" />
+      <workItem from="1590797038348" duration="2966000" />
+      <workItem from="1591420268919" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1588495239062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588495239062" />
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585471622889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585471622889" />
+    <state x="900" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1588606526378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="900" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588606526378" />
+    <state x="129" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587286783316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="129" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1587286783316" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587284117087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587284117087" />
+    <state x="436" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585494878488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1585494878488" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1591420395373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591420395373" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1590800033986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590800033986" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1590800033986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590800033986" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1590800033986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590800033986" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1590800033986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590800033986" />
+    <state width="1493" height="198" key="GridCell.Tab.1.bottom" timestamp="1590800033987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590800033987" />
+    <state width="1493" height="198" key="GridCell.Tab.1.center" timestamp="1590800033986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590800033986" />
+    <state width="1493" height="198" key="GridCell.Tab.1.left" timestamp="1590800033986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590800033986" />
+    <state width="1493" height="198" key="GridCell.Tab.1.right" timestamp="1590800033987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590800033987" />
+    <state width="1493" height="250" key="GridCell.Tab.2.bottom" timestamp="1588520605471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588520605471" />
+    <state width="1493" height="250" key="GridCell.Tab.2.center" timestamp="1588520605470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1588520605470" />
+    <state width="1493" height="250" key="GridCell.Tab.2.left" timestamp="1588520605470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1588520605470" />
+    <state width="1493" height="250" key="GridCell.Tab.2.right" timestamp="1588520605471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1588520605471" />
+    <state x="346" y="81" key="SettingsEditor" timestamp="1589812430506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="346" y="81" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589812430506" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1587284004408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1587284004408" />
+    <state x="493" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1589606304695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="200" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589606304695" />
+    <state x="309" y="168" width="989" height="590" key="new project wizard" timestamp="1586963259162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="309" y="168" width="989" height="590" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586963259162" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586790774569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586790774569" />
+  </component>
+</project>
